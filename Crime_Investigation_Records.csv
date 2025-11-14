@@ -1,0 +1,11 @@
+Case_ID,Crime_Type,Location,Date_Reported,Investigation_Status,Officer_in_Charge,Suspect_Name,Victim_Name,Evidence_Collected,Next_Hearing_Date
+C101,Burglary,Chennai,2025-01-05,Closed,Inspector Rajesh,Unknown,Arun,Fingerprints,2025-04-15
+C102,Murder,Coimbatore,2025-02-12,Ongoing,SI Priya,Ravi Kumar,Divya,CCTV Footage,2025-05-20
+C103,Cyber Fraud,Madurai,2025-03-18,Ongoing,Inspector Manoj,Unknown,Kishore,Digital Transactions,2025-06-10
+C104,Kidnapping,Salem,2025-03-25,Closed,SI Ramesh,Vijay,Meena,Witness Statements,2025-04-30
+C105,Assault,Trichy,2025-04-09,Ongoing,Inspector Kavitha,Karthik,Siva,DNA Sample,2025-07-01
+C106,Drug Trafficking,Erode,2025-05-21,Ongoing,Inspector Arjun,Unknown,Rahul,Confiscated Drugs,2025-08-18
+C107,Vehicle Theft,Vellore,2025-06-30,Closed,SI Deepa,Suresh,Lakshmi,Vehicle Registration,2025-09-05
+C108,Domestic Violence,Thanjavur,2025-07-12,Ongoing,Inspector Kiran,Unknown,Kiran,Medical Reports,2025-10-02
+C109,Arson,Tirunelveli,2025-08-05,Ongoing,SI Meena,Senthil,Aravind,Fire Sample,2025-11-10
+C110,Human Trafficking,Nagercoil,2025-09-14,Closed,Inspector Naveen,Unknown,Priya,Call Records,2025-12-22
